@@ -1,5 +1,20 @@
-Demonstration Video
+## Contents
+Bohan Hou
 
-Since the Gradescope submission for this assignment accepts only PDF files, I have included a link to the Q2 demonstration video below.
+This repository contains the following two directories:
 
-https://drive.google.com/file/d/11ak6lj9OTJHRhIhFeL2NfN3Z7vOvEbeG/view?usp=drive_link  
+Q1: Python code and result plots for the Kalman filter experiments.
+
+Q2: The Unity Roll-a-Ball game.
+
+## How to run
+
+For Q1, install `numpy` and `matplotlib`, then run `Q1e.py` or `Q1f.py`.
+
+For Q2:
+
+1. Open the Q2 project in Unity.
+2. Open `Assets/Scenes/RollABall.unity` and click Play.
+3. Click Start to begin.
+
+Use WASD to move and Space to jump.
